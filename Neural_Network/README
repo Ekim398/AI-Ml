@@ -1,3 +1,0 @@
-Neural Network of a 2 -> 3 -> 2 -> 1 FC MLP in C 
-Compile: Clang main.c mlp.c mlp.h
-Run: ./a.out
