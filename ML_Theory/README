@@ -2,3 +2,16 @@ My own files for ML Theory processed
 - No SVM 
 - Reinforcement Learning covered only a little bit 
 - Only a first stage, later will be refined even more 
+- Download the zip file and pdfs of each section covering
+---------------------------------------------------------------------------------------------------
+Files Names 
+1. Mathematical intuition of Regression 
+2. Regression/Classification 
+3. Gradient Decscent 
+4. Neural Networks & Code (4.1)
+5. CNN 
+6. Transformers
+7. SVM(empty)
+8. Graph Theory(Undirected --> Directed) 
+9. Sampling & Clustering Algos. 
+10. PCA& RL
